@@ -5,7 +5,7 @@ This project is part of Ford's initiative to provide drivers with enhanced acces
 - **Mobile Applications**: Used by drivers to view live vehicle data.
 - **Embedded Systems**: Hardware in vehicles collecting sensor readings.
 
-The backend will act as the glue, streaming data from vehicle sensors to the mobile app in real-time..
+The backend will act as the glue, streaming data from vehicle sensors to the mobile app in real-time.
 
 ---
 
